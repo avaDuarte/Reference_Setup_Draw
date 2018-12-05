@@ -13,3 +13,4 @@ void draw() {
   ellipse (mouseX, mouseY, 100,80);
   ellipse (mouseX, mouseY, 100,80);
 triangle(mouseX,mouseY, 100, 80, 100,80 );
+}
